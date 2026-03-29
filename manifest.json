@@ -15,10 +15,6 @@
     "partnerName": "Pinata"
   },
 
-  "model": {
-    "primary": "anthropic/claude-sonnet-4-6"
-  },
-
   "secrets": [
     {
       "name": "ANTHROPIC_SETUP_TOKEN",
